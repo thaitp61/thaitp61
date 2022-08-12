@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/channel/UCKMqe1JdnibWTZ4e5wNTV5w" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+  <a href="#" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
   <a href="mailto:nguoicuatheki20@gmail.com" alt="Email">

@@ -13,7 +13,7 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-th%C3%A1i-b00881247/" target="_blank">
+  <a href="https://www.linkedin.com/in/phuongthai61/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/tpt0610" alt="Facebook">
